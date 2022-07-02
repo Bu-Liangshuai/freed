@@ -208,6 +208,8 @@ ___
 * tachiyomi-preview｜APP
   * https://github.com/tachiyomiorg/tachiyomi-preview
   * https://github.com/tachiyomiorg/tachiyomi-preview/releases
+* Tachiyomi｜非官方插件
+  * [copymanga](https://github.com/stevenyomi/copymanga)
 * Tachiyomi｜安装书源
   * 浏览 > 扩展插件 > 安装 (一个一个安装)
 * Tachiyomi｜找漫画
