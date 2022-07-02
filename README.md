@@ -92,28 +92,36 @@ ___
   + [网页版/苹果版【阅读】使用教程](https://mp.weixin.qq.com/s/KPpnPxogVZgUqhOXa4o7kw)
   + [聊点深的](https://mp.weixin.qq.com/s/Hluv7IHe3TO6ex8pcc-e8w)
   + [说一下这个功能](https://mp.weixin.qq.com/s/D4rj5N3drFVyG2fYf0hMlw)
-* 开源阅读📖｜书源合集更新【2022.06月】
+* 开源阅读📖｜书源合集更新【2022.07月】
   + 书源更新
     + [喵公子书源管理](http://yuedu.miaogongzi.net/gx.html) (手机如有安装 开源阅读📖APP,该网站支援 "一键点击导入书源")
-    + [五月书源更新](https://www.legado.top/blog/book-source) (手机如有安装 开源阅读📖APP,该网站支援 "一键点击导入书源")
+
+  + namofree大佬的书源（通用，精简，适合大多数人，7月更新，52个）：
+      1. 修复失效书源，完善已有书源正文广告过滤规则；
+      2. 起点排行榜、纵横排行榜、追书排行榜仅适用于找书，阅读时建议换源；
+      3. 本书源适用于3.0版，2.0版阅读app应该大部分都能用，但不保证全部适用；
+      4. 友情提醒：订阅/导入地址有变更，有订阅的书友请自行替换；
+      5. 每次导入之前建议把之前的Namo分组删除全新导入！
+
+        https://namofree.coding.net/p/yuedu/d/legado/git/raw/master/legadoNamo.json
+  + 一程大佬的"书源"合集（通用，精简，7月更新，286个）：
+      1. 修复28个书源、新增22个书源、删除46个书源
+      2. 建议删除旧书源再导入书源合集
+
+        https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
+  + 一程大佬的"订阅"合集（7月更新）：
+      1. 更新2个网站、新增13个网站、删除9个网站
+
+        https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/dy.json
+  + FD源（7月更新）：
+      1. 相对来说也就晚个一天左右更新，算是比较优质的源
+        https://f-c.coding.net/p/fengchui/d/YDfc/git/raw/master/shareBookSource.json
+  + haxc大佬的精选漫画源（7月更新，152个）：
+  
+        https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
   + 源仓库书源（6月1日更新，校验5遍，欢迎导入，188个）：
 
         https://yd.mgz6.cc/shuyuan/yck180.json
-  + namofree大佬的书源（通用，精简，适合大多数人，6月更新，55个）：
-      1. 修复失效书源，新增几个备用源，完善已有书源正文广告过滤规则
-      2. 重新收录超星图书、九九藏书、稻草人出版书源
-      3. 起点排行榜、纵横排行榜、追书排行榜仅适用于找书，阅读时建议换源
-
-        https://namofree.coding.net/p/yuedu/d/legado/git/raw/master/legadoNamo.json
-  + 一程大佬的书源合集（通用，精简，6月更新，312个）：
-      1. 修复25个书源
-      2. 新增16个书源
-      3. 删除27个书源
-
-        https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
-  + haxc大佬的精选漫画源（6月更新，151个）：
-  
-        https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
   + 糖果超甜大佬的女频书源合集（通用，精简，5月更新，138个）：
   
         https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json
