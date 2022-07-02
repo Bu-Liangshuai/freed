@@ -1,3 +1,8 @@
+# BiuBiu影院 测试版
+* 公众号：一个小菜花
+* [播放器改版完成，测试版来啦！](https://mp.weixin.qq.com/s/Y3M04jdWjGSfnNzXuj2NQw)
+* [讲一下自定义新加字段的使用](https://mp.weixin.qq.com/s/413rc8TNDCGcaD_AZQR6DQ)
+---
 # BiuBiu影院
 ## 接口简易设定流程：
 * 自行找到主程式并安装: BiuBiu影院999.apk
